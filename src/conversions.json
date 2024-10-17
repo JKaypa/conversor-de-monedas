@@ -1,0 +1,23 @@
+[
+  {
+    "amount": 1000.0,
+    "base_code": "INR",
+    "target_code": "COP",
+    "conversion_result": 50540.9,
+    "created_at": "2024-10-17T15:29:36.452499356"
+  },
+  {
+    "amount": 1000.0,
+    "base_code": "BRL",
+    "target_code": "COP",
+    "conversion_result": 752366.4,
+    "created_at": "2024-10-17T15:31:13.189383856"
+  },
+  {
+    "amount": 1000.0,
+    "base_code": "USD",
+    "target_code": "COP",
+    "conversion_result": 4243825.2,
+    "created_at": "2024-10-17T15:33:08.388883202"
+  }
+]
